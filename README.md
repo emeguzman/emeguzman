@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emeguzman
+- 👋 Hi, I’m Mauricio Guzmán
 - 👀 I’m interested in learning Data Analysis and programin in R language
 - 🌱 I’m currently learning R and Python in a sel-taught way
 - 💞️ I’m looking to collaborate on those matters
